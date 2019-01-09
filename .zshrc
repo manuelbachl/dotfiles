@@ -415,7 +415,7 @@ zplug load
 
 #######
 # Paths
-export GOPATH=$HOME/Projects/personal/GoLang
+export GOPATH=$HOME/Projects/personal/Go
 export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$GOROOT/bin
